@@ -20,3 +20,5 @@ Telegram电报群发（飞机群发，TG私信）+电报注册机/批量创建�
 17. 批量养号   新注册号码可适当在群内发言，聊天，保持活跃度。
 18. 全局设置
 19. ![image](https://github.com/llkh666/telegram-bot-exe/assets/134913324/4eb19ccb-066a-4a23-8f19-5dcc47b914db)
+![image](https://github.com/llkh666/telegram-bot-exe/assets/134913324/b68400fe-aba1-414f-84b2-2083c9fc0ef9)
+LLDS流量大师TG协议群发器
